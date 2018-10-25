@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="132bea5b-ba48-42ca-b060-356584e049f6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dop/js/script.js" afterPath="$PROJECT_DIR$/Dop/js/script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dop/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -26,13 +27,46 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dop/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="3" lean-forward="false" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+              <folding>
+                <marker date="1540492852778" expanded="true" signature="136:177" ph="{...}" />
+                <marker date="1540492852778" expanded="true" signature="371:949" ph="{...}" />
+                <marker date="1540492852778" expanded="true" signature="390:747" ph="{...}" />
+                <marker date="1540492852778" expanded="true" signature="446:739" ph="{...}" />
+                <marker date="1540492852778" expanded="true" signature="515:621" ph="{...}" />
+                <marker date="1540492852778" expanded="true" signature="627:728" ph="{...}" />
+                <marker date="1540492852778" expanded="true" signature="776:825" ph="{...}" />
+                <marker date="1540492852778" expanded="true" signature="893:912" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dop/js/script.js" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -73,6 +107,12 @@
               <item name="Less12Promiss-YOga" type="462c0819:PsiDirectoryNode" />
               <item name="Dop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Less12Promiss-YOga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Less12Promiss-YOga" type="462c0819:PsiDirectoryNode" />
+              <item name="Dop" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -83,6 +123,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,12 +152,12 @@
       <workItem from="1540326155532" duration="437000" />
       <workItem from="1540399314440" duration="70000" />
       <workItem from="1540479606599" duration="29000" />
-      <workItem from="1540492422099" duration="11000" />
+      <workItem from="1540492422099" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="547000" />
+    <option name="totallyTimeSpent" value="966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -154,6 +197,23 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dop/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="3" lean-forward="false" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+          <folding>
+            <marker date="1540492852778" expanded="true" signature="136:177" ph="{...}" />
+            <marker date="1540492852778" expanded="true" signature="371:949" ph="{...}" />
+            <marker date="1540492852778" expanded="true" signature="390:747" ph="{...}" />
+            <marker date="1540492852778" expanded="true" signature="446:739" ph="{...}" />
+            <marker date="1540492852778" expanded="true" signature="515:621" ph="{...}" />
+            <marker date="1540492852778" expanded="true" signature="627:728" ph="{...}" />
+            <marker date="1540492852778" expanded="true" signature="776:825" ph="{...}" />
+            <marker date="1540492852778" expanded="true" signature="893:912" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
